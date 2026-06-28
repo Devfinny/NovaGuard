@@ -1,2 +1,2 @@
 # NovaGuard
-NovaGuard ist ein modernes IT- und Cybersecurity-Projekt mit Fokus auf Sicherheit, Datenschutz und innovative Technologien. Unser Ziel ist es, digitale Systeme zuverlässig zu schützen und leistungsstarke Lösungen für die Zukunft zu entwickeln.
+is a modern IT and cybersecurity project focused on security, data protection, and innovative technologies. Our goal is to reliably protect digital systems and develop high-performance solutions for the future.
